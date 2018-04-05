@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Alarm Programmer</string>
-
+    <string-array name="spinner_values">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string name="dos_putnos">:</string>
+    <string name="set_alarm">Set alarm</string>
 </resources>
